@@ -1,3 +1,7 @@
-# Godot 4+ specific ignores
+# Ignorar los archivos temporales y de configuración de Godot
+.import/
 .godot/
-/android/
+.vscode/
+.idea/
+export.cfg
+*.godot
